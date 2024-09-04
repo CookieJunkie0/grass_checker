@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios-https-proxy-fix": "^0.17.1",
+    "dotenv": "^16.4.5",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
